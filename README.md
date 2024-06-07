@@ -3,6 +3,8 @@
 # Explicação como instalar o Visual Studio Code no Windows
 # fazer o CRUD.
 # Desenvolver o front-end
+  - página cadastro 
+  - página login 
   - página Index
   - página sobre
   - página serviços 
